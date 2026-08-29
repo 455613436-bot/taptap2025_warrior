@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 1860f6340bc00524886ce267603b5152
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_castle_ground_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1047.75
+        width: 349.25
+        height: 349.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049810f5aa64d0c41b3f8b007ba7344d
+      internalID: -1756439296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_castle_ground_1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1047.75
+        width: 349.25
+        height: 349.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211d7b8bfcc892944ac684acdbde1e2d
+      internalID: -1017658564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_castle_ground_2
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1047.75
+        width: 349.25
+        height: 349.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c25a66ed8adf240b322621bdb91824
+      internalID: -305949164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_castle_ground_3
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1047.75
+        width: 349.25
+        height: 349.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afe640daa60fd247980549d9087a8f1
+      internalID: 150503054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_castle_ground_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 698.75
+        width: 349.25
+        height: 349.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985c59cdf585b7b4bbd179a2c64fb417
+      internalID: -1758229463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_castle_ground_5
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 698.75
+        width: 349.25
+        height: 349.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afa772b84317094f92e101890c0f94e
+      internalID: -1786698188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_castle_ground_6
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 698.75
+        width: 349.25
+        height: 349.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a24fec95ed02e45b93226619f1cb53
+      internalID: -526728257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_castle_ground_7
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 698.75
+        width: 349.25
+        height: 349.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c229b3139ff128f48b14317cda1e944f
+      internalID: -1825695032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_castle_ground_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349.75
+        width: 349.25
+        height: 349.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdb7a7b89e29de4b9624d331f556e36
+      internalID: 788648875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_castle_ground_9
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 349.75
+        width: 349.25
+        height: 349.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1607e8570f26aa2438188407a7f92e27
+      internalID: -2004971832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_castle_ground_10
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 349.75
+        width: 349.25
+        height: 349.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4881c303f51df834ca8e957adb8eeb6c
+      internalID: 1487083482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_castle_ground_11
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 349.75
+        width: 349.25
+        height: 349.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae75895d99d6e8c4397842821cec2071
+      internalID: -1167233027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_castle_ground_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 349.25
+        height: 349.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45979d9049fb2a44dac6604dd008e108
+      internalID: -758678380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_castle_ground_13
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0.75
+        width: 349.25
+        height: 349.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c593daaef2659e8409f79d1d1149557c
+      internalID: 886097626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_castle_ground_14
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 0.75
+        width: 349.25
+        height: 349.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed47768a1e31c584a963127c6bbd147c
+      internalID: -1042671909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_castle_ground_15
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 0.75
+        width: 349.25
+        height: 349.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad2ee2012e90044598d1b2551dab0fd
+      internalID: 1929499112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sprite_castle_ground_0: -1756439296
+      sprite_castle_ground_1: -1017658564
+      sprite_castle_ground_10: 1487083482
+      sprite_castle_ground_11: -1167233027
+      sprite_castle_ground_12: -758678380
+      sprite_castle_ground_13: 886097626
+      sprite_castle_ground_14: -1042671909
+      sprite_castle_ground_15: 1929499112
+      sprite_castle_ground_2: -305949164
+      sprite_castle_ground_3: 150503054
+      sprite_castle_ground_4: -1758229463
+      sprite_castle_ground_5: -1786698188
+      sprite_castle_ground_6: -526728257
+      sprite_castle_ground_7: -1825695032
+      sprite_castle_ground_8: 788648875
+      sprite_castle_ground_9: -2004971832
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShortKing
+  m_Controller: {fileID: 9100000, guid: 3e493fc6ce7eb9340813a82917f30602, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0f9925f587eda7944b4abda7d7bc3a6b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 90f8b21fd27b6b548926ba8827ae18a6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: eb7210f7198f4244b983cb856a89c9e9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dffc2379e67e62f46b1c8a253e66c89a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b59b0638be1feae47b41e48f4cfa38f7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ab2626045dc155d48b25f0d29920aa6f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 628a3b61cdb698a448950a35aba9acfe, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8028006b8856ed74d91d149d8713b413, type: 2}
